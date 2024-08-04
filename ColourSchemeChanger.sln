@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColourSchemeChanger", "ColourSchemeChanger\ColourSchemeChanger.csproj", "{7BE32C6B-487D-41B6-88C0-C379FF4D22CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BE32C6B-487D-41B6-88C0-C379FF4D22CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BE32C6B-487D-41B6-88C0-C379FF4D22CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BE32C6B-487D-41B6-88C0-C379FF4D22CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BE32C6B-487D-41B6-88C0-C379FF4D22CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5932643D-F8FB-4373-BE06-69A540F38019}
+	EndGlobalSection
+EndGlobal
